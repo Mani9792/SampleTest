@@ -8,6 +8,7 @@ public class Test1 {
 		drawPyramidPattern(); 
 		
 		System.out.println("Pyramid of numbers in Java : ");
+		System.out.println("Pyramid of numbers in Java : ");
 		//drawPyramidOfNumbers();
 	}
 
