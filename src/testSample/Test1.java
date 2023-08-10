@@ -6,6 +6,9 @@ public class Test1 {
 	{ 
 		System.out.println("Pyramid pattern of star in Java : ");
 		drawPyramidPattern(); 
+		
+		System.out.println("Pyramid of numbers in Java : ");
+		//drawPyramidOfNumbers();
 	}
 
 //This method draws a pyramid pattern using asterisk character.
